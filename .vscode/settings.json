@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:/Users/asifa/OneDrive/Desktop/TensorFlow/tf-venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "C:/Users/asifa/OneDrive/Desktop/TensorFlow/tf-venv/Lib/site-packages"
+    ]
+}
